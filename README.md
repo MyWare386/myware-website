@@ -10,4 +10,14 @@ My Website
 Github
 -----------------
 
-The link of my Github profile
+The link to my Github profile.
+
+Reddit
+-----------------
+
+The link to my Reddit profile.
+
+Inventions
+----------------
+
+The link to the page where you can find the links of the two sites of my inventions
