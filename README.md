@@ -1,6 +1,6 @@
 # myware-website
 
-My Website
+My Website where you can find my social media
 
 <br>
 
