@@ -16,4 +16,4 @@ My Website
 _Note_
 --------------------------
 
-- The website isn't 
+- The website isn't finished yet
