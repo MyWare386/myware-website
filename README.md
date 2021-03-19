@@ -13,6 +13,11 @@ My Website where you can find my social media and the websites of my projects.
 
 <br>
 
+News
+--------------------
+
+<br>
+
 _Note_
 --------------------------
 
