@@ -17,3 +17,10 @@ _Note_
 --------------------------
 
 - The website isn't finished yet
+
+<br>
+
+Credits
+-----------------
+
+Made with HTML, CSS and Javascript by **MyWare** (https://github.com/MyWare386).
