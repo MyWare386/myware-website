@@ -1,6 +1,6 @@
 # myware-website
 
-My Website where you can find my social media, my projects and my .
+My Website where you can find my social media, my projects and my websites.
 
 <br>
 
