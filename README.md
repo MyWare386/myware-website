@@ -22,7 +22,7 @@ _"Something's wrong, I can feel it"_
 _Note_
 --------------------------
 
-- The website isn't finished yet
+- I often put new things on this site 
 
 <br>
 
